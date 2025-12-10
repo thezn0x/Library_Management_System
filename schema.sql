@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS books (
+    isbn VARCHAR(20) PRIMARY KEY,
+    title TEXT NOT NULL,
+    author TEXT NOT NULL,
+    available BOOLEAN DEFAULT TRUE
+);
