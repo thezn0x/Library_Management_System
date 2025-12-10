@@ -98,6 +98,17 @@ The system uses a single `books` table with the following structure:
 - Books are marked as available by default when added
 - The system prevents duplicate ISBNs
 
+## What I Learned
+- Working with PostgreSQL databases
+- Implementing CRUD operations
+- Object-oriented programming in Python
+- Database connection management
+- Environment variable configuration
+
 ## License
 
 This project is open source and available for educational purposes.
+
+![Python](https://img.shields.io/badge/python-3.7+-blue.svg)
+![PostgreSQL](https://img.shields.io/badge/postgresql-13+-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
